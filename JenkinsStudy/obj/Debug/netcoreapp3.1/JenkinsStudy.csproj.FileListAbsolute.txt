@@ -47,7 +47,6 @@ C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\bin\Debug\ne
 C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\bin\Debug\netcoreapp3.1\JenkinsStudy.pdb
 C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\bin\Debug\netcoreapp3.1\JenkinsStudy.Views.dll
 C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\bin\Debug\netcoreapp3.1\JenkinsStudy.Views.pdb
-C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\obj\Debug\netcoreapp3.1\JenkinsStudy.csprojAssemblyReference.cache
 C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\obj\Debug\netcoreapp3.1\JenkinsStudy.csproj.CoreCompileInputs.cache
 C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\obj\Debug\netcoreapp3.1\JenkinsStudy.MvcApplicationPartsAssemblyInfo.cache
 C:\JianShenProjectCode\GitMaYunSourceCode\JenkinsStudy\JenkinsStudy\obj\Debug\netcoreapp3.1\JenkinsStudy.RazorAssemblyInfo.cache
